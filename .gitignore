@@ -1,6 +1,11 @@
-# Don't track content of these file types
-  
-# Compiled source #
-###################
 *.csv
-
+*.pickle
+__pycache__
+*.__pycache__
+.DS_Store
+*.pyc
+*.sav
+.idea/
+surge.log
+.vscode
+.localdev
